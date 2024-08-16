@@ -17,7 +17,8 @@ Penelitian ini membuktikan bahwa XGBoost merupakan model yang efektif dalam mend
 [Try Here](https://fraud-detection---vehicle-insurance-claim-jajzvgcuuepuvlytceat.streamlit.app/)
 
 ## 📷 Screenshot
-![Streamlit Screenshoot](/Screenshot_Streamlit app.jpg)
+![Streamlit Screenshoot](Screenshot_Streamlit.png)
+)
 
 ## ✨ Authors
 
